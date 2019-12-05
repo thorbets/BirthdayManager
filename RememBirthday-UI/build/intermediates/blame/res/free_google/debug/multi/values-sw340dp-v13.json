@@ -1,0 +1,202 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\incremental\\mergeFree_googleDebugResources\\merged.dir\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 87,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 51,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 51,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 86,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 86,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 49,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 49,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 48,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 48,
+                        "endOffset": 376
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\incremental\\mergeFree_googleDebugResources\\merged.dir\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 87,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 51,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 51,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 86,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 86,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 49,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 49,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 48,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 48,
+                        "endOffset": 376
+                    }
+                }
+            }
+        ]
+    }
+]

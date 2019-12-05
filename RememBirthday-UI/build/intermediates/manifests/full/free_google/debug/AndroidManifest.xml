@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kunzisoft.remembirthday.free"
+    android:versionCode="1"
+    android:versionName="0.10-free" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission
+        android:name="android.permission.AUTHENTICATE_ACCOUNTS"
+        android:maxSdkVersion="22" />
+    <uses-permission
+        android:name="android.permission.MANAGE_ACCOUNTS"
+        android:maxSdkVersion="22" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name="com.kunzisoft.remembirthday.RememBirthday"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/ChocolateTheme" >
+        <activity
+            android:name="com.kunzisoft.remembirthday.activity.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/SplashChocolateTheme" >
+            <intent-filter>
+
+                <!-- TODO https://developer.android.com/training/app-indexing/deep-linking.html -->
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kunzisoft.remembirthday.activity.BuddyActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.kunzisoft.remembirthday.activity.ListContactsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.kunzisoft.remembirthday.activity.DetailsBuddyActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.kunzisoft.remembirthday.activity.SettingsActivity"
+            android:label="@string/settings_title"
+            android:theme="@style/ChocolateTheme.Settings" >
+
+            <!-- required to start it from Account settings -->
+            <intent-filter>
+                <action android:name="com.kunzisoft.remembirthday.settings.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kunzisoft.remembirthday.activity.NotificationActivity"
+            android:label="@string/settings_title" >
+        </activity>
+        <activity
+            android:name="com.kunzisoft.remembirthday.activity.AboutActivity"
+            android:label="@string/about_title" >
+        </activity>
+
+        <!-- Custom Notification -->
+        <receiver android:name="com.kunzisoft.remembirthday.notifications.NotificationEventReceiver" />
+        <receiver android:name="com.kunzisoft.remembirthday.notifications.NotificationServiceStarterReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.kunzisoft.remembirthday.notifications.NotificationIntentService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.kunzisoft.remembirthday.notifications.ContactsProviderIntentService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!-- Calendar -->
+        <service android:name="com.kunzisoft.remembirthday.service.MainIntentService" />
+        <service
+            android:name="com.kunzisoft.remembirthday.service.AccountAuthenticatorService"
+            android:exported="true"
+            android:process=":auth" >
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/authenticator" />
+        </service>
+        <service
+            android:name="com.kunzisoft.remembirthday.service.CalendarSyncAdapterService"
+            android:exported="true"
+            android:process=":calendar" >
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.content.SyncAdapter"
+                android:resource="@xml/sync_calendar" />
+        </service>
+
+        <!-- Auto SMS -->
+        <receiver
+            android:name="com.kunzisoft.autosms.receiver.BootReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.kunzisoft.autosms.receiver.ReminderReceiver" />
+        <receiver android:name="com.kunzisoft.autosms.receiver.SmsSenderReceiver" />
+        <receiver android:name="com.kunzisoft.autosms.receiver.SmsSentReceiver" />
+        <receiver android:name="com.kunzisoft.autosms.receiver.SmsDeliveredReceiver" />
+
+        <service android:name="com.kunzisoft.autosms.service.ReminderService" />
+        <service android:name="com.kunzisoft.autosms.service.SmsSenderService" />
+        <service android:name="com.kunzisoft.autosms.service.SmsSentService" />
+        <service android:name="com.kunzisoft.autosms.service.SmsDeliveredService" />
+        <service android:name="com.kunzisoft.autosms.service.UnscheduleService" />
+    </application>
+
+</manifest>

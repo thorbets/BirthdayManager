@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Kunzisoft:AndroidClearChroma:1.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/8abe38c3fa79916821a9a47bb87d5d6740d08d85/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8abe38c3fa79916821a9a47bb87d5d6740d08d85/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Kunzisoft/AndroidClearChroma/1.8/3cdcb65ba6face12e27634fc27fce725e00c51c7/AndroidClearChroma-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

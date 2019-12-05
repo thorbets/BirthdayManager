@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_dialog_edittext.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\include_date_reminder.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\include_date_reminder.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_list_fragment.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_switch_compat.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_category.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\color_dialog_fragment.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\color_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\toolbar_default.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\toolbar_default.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_birthday_select.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_birthday_select.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_switch.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_widget_switch.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_reminder_notifs.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_reminder_notifs.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_information.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_information.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_contacts.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_contacts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_dialog_edittext.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\spinner_item_month.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\spinner_item_month.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_details_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_details_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\activity_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\chroma_color_fragment.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\chroma_color_fragment.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_information_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_information_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\channel_row.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\channel_row.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_switch.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_widget_switch.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_checkbox.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_details_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_details_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_information.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_information.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\preference_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_list_fragment.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\preference_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_contacts.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_contacts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_details_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\activity_details_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\include_menu_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\include_menu_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\chroma_color_fragment.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\chroma_color_fragment.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_auto_messages.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_auto_messages.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_contacts_birthday.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_contacts_birthday.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_reminder_notifs.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_reminder_notifs.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_list_contacts.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\activity_list_contacts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\button_bar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\button_bar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_menu.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_menu.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_details_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\activity_details_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\dialog_startup.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\dialog_startup.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_auto_messages.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_auto_messages.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_checkbox.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_dropdown_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_dropdown_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\spinner_item_day.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\spinner_item_day.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\spinner_item_month.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\spinner_item_month.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\toolbar_default.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\toolbar_default.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\activity_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_menu_not_available.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_menu_not_available.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_list_buddies.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_list_buddies.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_category_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_category_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_list_contacts.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_list_contacts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_list_contacts.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\activity_list_contacts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_menu_inactive.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_menu_inactive.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_recyclerview.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_menu_not_available.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_menu_not_available.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_list_contacts.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_list_contacts.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_recyclerview.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_information_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_information_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_menu.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_menu.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\dialog_startup.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\dialog_startup.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\button_bar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\button_bar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_dropdown_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_dropdown_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_birthday_select.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_birthday_select.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\spinner_item_year.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\spinner_item_year.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\fragment_list_buddies.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\fragment_list_buddies.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_category.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\include_date_reminder.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\include_date_reminder.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_switch_compat.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\spinner_item_year.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\spinner_item_year.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_category_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_category_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\spinner_item_day.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\spinner_item_day.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_contacts_birthday.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_contacts_birthday.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\include_menu_buddy.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\layout\\include_menu_buddy.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_seekbar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\a63fd433191552338e1e3c273fe41c2c5d53da9a\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\e11f962ecdb1eef70e0308eb204660c8b82b5efe\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\color_dialog_fragment.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\color_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\item_list_menu_inactive.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\layout\\item_list_menu_inactive.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\channel_row.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\8abe38c3fa79916821a9a47bb87d5d6740d08d85\\output\\res\\layout\\channel_row.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_material.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\f80c341cd7f8260db7836afff738d736cc2a607e\\output\\res\\layout\\preference_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\layout\\preference_widget_seekbar.xml",
+        "source": "C:\\Users\\Николай\\.android\\build-cache\\d872abe26522daad12a95207ab98911d494fd33d\\output\\res\\layout\\preference_widget_seekbar.xml"
+    }
+]

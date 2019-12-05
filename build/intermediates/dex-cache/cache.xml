@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\help\RememBirthday-master coppy\auto-sms\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8455c00a83e11578c57a591558b6d788b691b98">
+        <dex dex="D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\build\intermediates\pre-dexed\free_google\debug\classes_9231fa6133529c6cc497fdea647f2376b5d96387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\help\RememBirthday-master\auto-sms\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8455c00a83e11578c57a591558b6d788b691b98">
+        <dex dex="D:\Documents\Projects\help\RememBirthday-master\RememBirthday-UI\build\intermediates\pre-dexed\free_google\debug\classes_aeebaf3be1455dc6d512740ea2be4151547075c4.jar" />
+    </item>
+
+</items>

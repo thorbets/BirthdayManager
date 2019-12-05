@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\sync_calendar.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\xml\\sync_calendar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\preferences.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\preferences.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\authenticator.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\sync_calendar.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\xml\\sync_calendar.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\authenticator.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\account_preferences.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\src\\main\\res\\xml\\account_preferences.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\res\\merged\\free_google\\debug\\xml\\account_preferences.xml",
+        "source": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\src\\main\\res\\xml\\account_preferences.xml"
+    }
+]

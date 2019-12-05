@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Projects\\help\\RememBirthday-master coppy\\RememBirthday-UI\\build\\intermediates\\incremental\\mergeFree_googleDebugResources\\merged.dir\\values-en-rZA\\values-en-rZA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\ee32e59eaeb84eccdb25dd287a02b191465a94fb\\output\\res\\values-en-rZA\\values-en-rZA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Documents\\Projects\\help\\RememBirthday-master\\RememBirthday-UI\\build\\intermediates\\incremental\\mergeFree_googleDebugResources\\merged.dir\\values-en-rZA\\values-en-rZA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\Николай\\.android\\build-cache\\ee32e59eaeb84eccdb25dd287a02b191465a94fb\\output\\res\\values-en-rZA\\values-en-rZA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

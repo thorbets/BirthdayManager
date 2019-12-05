@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:2:1-137:12
+	package
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:7:22-70
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:10:9-64
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:12:5-14:38
+	android:maxSdkVersion
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:14:9-35
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:13:9-58
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:18:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:25:22-64
+application
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:27:5-135:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Николай\.android\build-cache\a63fd433191552338e1e3c273fe41c2c5d53da9a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Николай\.android\build-cache\cd1a7c0f43833cf0c0121ae65610543758a261ae\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Николай\.android\build-cache\cfea5bf952b00878c7f6e58706fd2b05ceafcdfc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Николай\.android\build-cache\8b09a4ca6fb8a2a3033694284330da011ad4e628\output\AndroidManifest.xml:29:5-20
+MERGED from [org.sufficientlysecure:html-textview:3.4] C:\Users\Николай\.android\build-cache\900a8fe887873562acf048fafaab1d16d4d9e7aa\output\AndroidManifest.xml:11:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] C:\Users\Николай\.android\build-cache\88499deb58943d3adc4d018aa95b4a1b7bab9de7\output\AndroidManifest.xml:10:5-20
+MERGED from [com.github.Kunzisoft:AndroidClearChroma:1.8] C:\Users\Николай\.android\build-cache\8abe38c3fa79916821a9a47bb87d5d6740d08d85\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:preference-v14:25.3.1] C:\Users\Николай\.android\build-cache\f80c341cd7f8260db7836afff738d736cc2a607e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Николай\.android\build-cache\d872abe26522daad12a95207ab98911d494fd33d\output\AndroidManifest.xml:26:5-20
+MERGED from [RememBirthday-master coppy:auto-sms:unspecified] D:\Documents\Projects\help\RememBirthday-master coppy\auto-sms\build\intermediates\bundles\default\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Николай\.android\build-cache\e11f962ecdb1eef70e0308eb204660c8b82b5efe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Николай\.android\build-cache\edf614d4b44bdc4dc02b99a5e5c36e8c316a598f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Николай\.android\build-cache\a3a59e9c5fbcf3ba8d1b2ab4e46d442560cfa54e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Николай\.android\build-cache\978ce809247a1111da97c2bdb10602a9d6242e6d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Николай\.android\build-cache\0246f0718c69c8233f60d2129f5a95032cb06910\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Николай\.android\build-cache\6f58d560e6692839373acfaf97f5c0970142c8cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Николай\.android\build-cache\65dff672bbd2157e598cd61491f1c3c8595f1296\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Николай\.android\build-cache\24f417d6d7e42f6caaf1d50718b91e18de7f70a6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Николай\.android\build-cache\7062b3b489a42853138b8ab0cf3f11f8b31c25e6\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:30:9-41
+	android:supportsRtl
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:31:9-35
+	android:allowBackup
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:29:9-43
+	android:theme
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:27:18-74
+activity#com.kunzisoft.remembirthday.activity.SplashActivity
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:33:9-42:20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:36:13-45
+	android:theme
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:34:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:40:27-74
+activity#com.kunzisoft.remembirthday.activity.BuddyActivity
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:44:13-51
+activity#com.kunzisoft.remembirthday.activity.ListContactsActivity
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:48:13-58
+activity#com.kunzisoft.remembirthday.activity.DetailsBuddyActivity
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:52:13-58
+activity#com.kunzisoft.remembirthday.activity.SettingsActivity
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:55:9-64:20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:58:13-51
+	android:theme
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:57:13-59
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:56:13-54
+intent-filter#android.intent.category.DEFAULT+com.kunzisoft.remembirthday.settings.MAIN
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:60:13-63:29
+action#com.kunzisoft.remembirthday.settings.MAIN
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:61:17-84
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:61:25-81
+category#android.intent.category.DEFAULT
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:62:17-76
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:62:27-73
+activity#com.kunzisoft.remembirthday.activity.NotificationActivity
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:65:9-68:20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:67:13-51
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:66:13-58
+activity#com.kunzisoft.remembirthday.activity.AboutActivity
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:69:9-72:20
+	android:label
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:71:13-48
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:70:13-51
+receiver#com.kunzisoft.remembirthday.notifications.NotificationEventReceiver
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:75:9-77
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:75:19-74
+receiver#com.kunzisoft.remembirthday.notifications.NotificationServiceStarterReceiver
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:76:9-82:20
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:76:19-83
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:77:13-81:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:78:17-79
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:78:25-76
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:79:17-81
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:79:25-78
+action#android.intent.action.TIME_SET
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:80:17-73
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:80:25-70
+service#com.kunzisoft.remembirthday.notifications.NotificationIntentService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:83:9-86:40
+	android:enabled
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:85:13-35
+	android:exported
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:84:13-68
+service#com.kunzisoft.remembirthday.notifications.ContactsProviderIntentService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:87:9-90:40
+	android:enabled
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:89:13-35
+	android:exported
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:88:13-72
+service#com.kunzisoft.remembirthday.service.MainIntentService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:93:9-62
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:93:18-59
+service#com.kunzisoft.remembirthday.service.AccountAuthenticatorService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:94:9-105:19
+	android:process
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:97:13-36
+	android:exported
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:96:13-36
+	tools:ignore
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:98:13-43
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:95:13-64
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:99:13-101:29
+action#android.accounts.AccountAuthenticator
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:100:17-80
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:100:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:102:13-104:57
+	android:resource
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:104:17-54
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:103:17-69
+service#com.kunzisoft.remembirthday.service.CalendarSyncAdapterService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:106:9-117:19
+	android:process
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:109:13-40
+	android:exported
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:108:13-36
+	tools:ignore
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:110:13-43
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:107:13-63
+intent-filter#android.content.SyncAdapter
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:111:13-113:29
+action#android.content.SyncAdapter
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:112:17-70
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:112:25-67
+meta-data#android.content.SyncAdapter
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:114:13-116:57
+	android:resource
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:116:17-54
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:115:17-59
+receiver#com.kunzisoft.autosms.receiver.BootReceiver
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:120:9-124:20
+	android:exported
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:120:78-102
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:120:19-77
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:121:13-123:29
+receiver#com.kunzisoft.autosms.receiver.ReminderReceiver
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:125:9-83
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:125:19-81
+receiver#com.kunzisoft.autosms.receiver.SmsSenderReceiver
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:126:9-84
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:126:19-82
+receiver#com.kunzisoft.autosms.receiver.SmsSentReceiver
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:127:9-82
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:127:19-80
+receiver#com.kunzisoft.autosms.receiver.SmsDeliveredReceiver
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:128:9-87
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:128:19-85
+service#com.kunzisoft.autosms.service.ReminderService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:129:9-80
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:129:18-78
+service#com.kunzisoft.autosms.service.SmsSenderService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:130:9-82
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:130:18-79
+service#com.kunzisoft.autosms.service.SmsSentService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:131:9-80
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:131:18-77
+service#com.kunzisoft.autosms.service.SmsDeliveredService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:132:9-85
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:132:18-82
+service#com.kunzisoft.autosms.service.UnscheduleService
+ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:133:9-82
+	android:name
+		ADDED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml:133:18-80
+uses-sdk
+INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Николай\.android\build-cache\a63fd433191552338e1e3c273fe41c2c5d53da9a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Николай\.android\build-cache\cd1a7c0f43833cf0c0121ae65610543758a261ae\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Николай\.android\build-cache\cfea5bf952b00878c7f6e58706fd2b05ceafcdfc\output\AndroidManifest.xml:20:5-43
+MERGED from [net.danlew:android.joda:2.9.9] C:\Users\Николай\.android\build-cache\ee32e59eaeb84eccdb25dd287a02b191465a94fb\output\AndroidManifest.xml:6:5-43
+MERGED from [com.github.hotchemi:permissionsdispatcher:2.4.0] C:\Users\Николай\.android\build-cache\47b2206d08ade7dea021f9aa2437faad54aaa198\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Николай\.android\build-cache\8b09a4ca6fb8a2a3033694284330da011ad4e628\output\AndroidManifest.xml:21:5-23:55
+MERGED from [org.sufficientlysecure:html-textview:3.4] C:\Users\Николай\.android\build-cache\900a8fe887873562acf048fafaab1d16d4d9e7aa\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] C:\Users\Николай\.android\build-cache\88499deb58943d3adc4d018aa95b4a1b7bab9de7\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.Kunzisoft:AndroidClearChroma:1.8] C:\Users\Николай\.android\build-cache\8abe38c3fa79916821a9a47bb87d5d6740d08d85\output\AndroidManifest.xml:8:5-11:66
+MERGED from [com.android.support:preference-v14:25.3.1] C:\Users\Николай\.android\build-cache\f80c341cd7f8260db7836afff738d736cc2a607e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Николай\.android\build-cache\d872abe26522daad12a95207ab98911d494fd33d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Николай\.android\build-cache\a22f027a9f8bce6e0e3de7ab8ba18335fd3a4f99\output\AndroidManifest.xml:20:5-43
+MERGED from [RememBirthday-master coppy:auto-sms:unspecified] D:\Documents\Projects\help\RememBirthday-master coppy\auto-sms\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Николай\.android\build-cache\e11f962ecdb1eef70e0308eb204660c8b82b5efe\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Николай\.android\build-cache\edf614d4b44bdc4dc02b99a5e5c36e8c316a598f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Николай\.android\build-cache\a3a59e9c5fbcf3ba8d1b2ab4e46d442560cfa54e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Николай\.android\build-cache\978ce809247a1111da97c2bdb10602a9d6242e6d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Николай\.android\build-cache\0246f0718c69c8233f60d2129f5a95032cb06910\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Николай\.android\build-cache\6f58d560e6692839373acfaf97f5c0970142c8cb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Николай\.android\build-cache\65dff672bbd2157e598cd61491f1c3c8595f1296\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Николай\.android\build-cache\24f417d6d7e42f6caaf1d50718b91e18de7f70a6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Николай\.android\build-cache\7062b3b489a42853138b8ab0cf3f11f8b31c25e6\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Николай\.android\build-cache\a63fd433191552338e1e3c273fe41c2c5d53da9a\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Projects\help\RememBirthday-master coppy\RememBirthday-UI\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Николай\.android\build-cache\a63fd433191552338e1e3c273fe41c2c5d53da9a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Николай\.android\build-cache\cd1a7c0f43833cf0c0121ae65610543758a261ae\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Николай\.android\build-cache\cfea5bf952b00878c7f6e58706fd2b05ceafcdfc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Николай\.android\build-cache\8b09a4ca6fb8a2a3033694284330da011ad4e628\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:preference-v14:25.3.1] C:\Users\Николай\.android\build-cache\f80c341cd7f8260db7836afff738d736cc2a607e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Николай\.android\build-cache\d872abe26522daad12a95207ab98911d494fd33d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Николай\.android\build-cache\a22f027a9f8bce6e0e3de7ab8ba18335fd3a4f99\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Николай\.android\build-cache\e11f962ecdb1eef70e0308eb204660c8b82b5efe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Николай\.android\build-cache\edf614d4b44bdc4dc02b99a5e5c36e8c316a598f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Николай\.android\build-cache\a3a59e9c5fbcf3ba8d1b2ab4e46d442560cfa54e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Николай\.android\build-cache\978ce809247a1111da97c2bdb10602a9d6242e6d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Николай\.android\build-cache\0246f0718c69c8233f60d2129f5a95032cb06910\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Николай\.android\build-cache\6f58d560e6692839373acfaf97f5c0970142c8cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Николай\.android\build-cache\65dff672bbd2157e598cd61491f1c3c8595f1296\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Николай\.android\build-cache\24f417d6d7e42f6caaf1d50718b91e18de7f70a6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Николай\.android\build-cache\7062b3b489a42853138b8ab0cf3f11f8b31c25e6\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Николай\.android\build-cache\a63fd433191552338e1e3c273fe41c2c5d53da9a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Николай\.android\build-cache\a63fd433191552338e1e3c273fe41c2c5d53da9a\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [RememBirthday-master coppy:auto-sms:unspecified] D:\Documents\Projects\help\RememBirthday-master coppy\auto-sms\build\intermediates\bundles\default\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [RememBirthday-master coppy:auto-sms:unspecified] D:\Documents\Projects\help\RememBirthday-master coppy\auto-sms\build\intermediates\bundles\default\AndroidManifest.xml:11:22-76
