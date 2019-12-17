@@ -1,0 +1,48 @@
+package com.shutor.birthdaymanager.activity;
+
+import android.content.Context;
+import android.widget.Toast;
+
+import com.shutor.birthdaymanager.R;
+import com.shutor.birthdaymanager.provider.ContactProvider;
+
+/**
+ * Utility class for callback management
+ */
+public class CallbackAction {
+
+    /**
+     * Displays a Toast message based on the action performed
+     * @param context Context for make Toast
+     * @param action Action performed
+     * @param exception Exception if error, null if all is ok
+     */
+    public static void showMessage(Context context, ContactProvider.CallbackActionBirthday.Action action, Exception exception) {
+        String message = "";
+        switch (action) {
+            case ADD:
+                if (exception == null)
+                    message = context.getString(R.string.activity_list_contacts_success_add);
+                else {
+                    message = context.getString(R.string.activity_list_contacts_error_add);
+                }
+                break;
+            case UPDATE:
+                if(exception == null)
+                    message = context.getString(R.string.activity_list_contacts_success_update);
+                else {
+                    message = context.getString(R.string.activity_list_contacts_error_update);
+                }
+                break;
+            case REMOVE:
+                if(exception == null)
+                    message = context.getString(R.string.activity_list_contacts_success_remove);
+                else {
+                    message = context.getString(R.string.activity_list_contacts_error_remove);
+                }
+                break;
+        }
+        Toast infoToast = Toast.makeText(context, message, Toast.LENGTH_LONG);
+        infoToast.show();
+    }
+}

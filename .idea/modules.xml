@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BirthdayManager-UI/BirthdayManager-UI.iml" filepath="$PROJECT_DIR$/BirthdayManager-UI/BirthdayManager-UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BirthdayManager1.3 (color + icon).iml" filepath="$PROJECT_DIR$/BirthdayManager1.3 (color + icon).iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto-sms/BirthdayManager1.3 (color + icon)-auto-sms.iml" filepath="$PROJECT_DIR$/auto-sms/BirthdayManager1.3 (color + icon)-auto-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BirthdayManager-UI/RememBirthday-UI.iml" filepath="$PROJECT_DIR$/BirthdayManager-UI/RememBirthday-UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto-sms/auto-sms.iml" filepath="$PROJECT_DIR$/auto-sms/auto-sms.iml" />
+    </modules>
+  </component>
+</project>

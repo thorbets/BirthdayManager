@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.shutor.birthdaymanager">
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+
+    <uses-permission
+        android:name="android.permission.AUTHENTICATE_ACCOUNTS"
+        android:maxSdkVersion="22" />
+    <uses-permission
+        android:name="android.permission.MANAGE_ACCOUNTS"
+        android:maxSdkVersion="22" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application android:name="com.shutor.birthdaymanager.BirthdayManager"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/ChocolateTheme">
+        <activity
+            android:name="com.shutor.birthdaymanager.activity.SplashActivity"
+            android:theme="@style/SplashChocolateTheme"
+            android:label="@string/app_name">
+            <intent-filter>
+                <!-- TODO https://developer.android.com/training/app-indexing/deep-linking.html -->
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.shutor.birthdaymanager.activity.BuddyActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.shutor.birthdaymanager.activity.ListContactsActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.shutor.birthdaymanager.activity.DetailsBuddyActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.shutor.birthdaymanager.activity.SettingsActivity"
+            android:theme="@style/ChocolateTheme.Settings"
+            android:label="@string/settings_title">
+            <!-- required to start it from Account settings -->
+            <intent-filter>
+                <action android:name="com.shutor.birthdaymanager.settings.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.shutor.birthdaymanager.activity.NotificationActivity"
+            android:label="@string/settings_title">
+        </activity>
+        <activity
+            android:name="com.shutor.birthdaymanager.activity.AboutActivity"
+            android:label="@string/about_title">
+        </activity>
+
+        <!-- Custom Notification -->
+        <receiver android:name="com.shutor.birthdaymanager.notifications.NotificationEventReceiver" />
+        <receiver android:name="com.shutor.birthdaymanager.notifications.NotificationServiceStarterReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.shutor.birthdaymanager.notifications.NotificationIntentService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.shutor.birthdaymanager.notifications.ContactsProviderIntentService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!-- Calendar -->
+        <service android:name="com.shutor.birthdaymanager.service.MainIntentService" />
+        <service
+            android:name="com.shutor.birthdaymanager.service.AccountAuthenticatorService"
+            android:exported="true"
+            android:process=":auth"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+            </intent-filter>
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/authenticator" />
+        </service>
+        <service
+            android:name="com.shutor.birthdaymanager.service.CalendarSyncAdapterService"
+            android:exported="true"
+            android:process=":calendar"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <meta-data
+                android:name="android.content.SyncAdapter"
+                android:resource="@xml/sync_calendar" />
+        </service>
+
+        <!-- Auto SMS -->
+        <receiver android:name="com.shutor.autosms.receiver.BootReceiver" android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.shutor.autosms.receiver.ReminderReceiver"/>
+        <receiver android:name="com.shutor.autosms.receiver.SmsSenderReceiver"/>
+        <receiver android:name="com.shutor.autosms.receiver.SmsSentReceiver"/>
+        <receiver android:name="com.shutor.autosms.receiver.SmsDeliveredReceiver"/>
+        <service android:name="com.shutor.autosms.service.ReminderService"/>
+        <service android:name="com.shutor.autosms.service.SmsSenderService" />
+        <service android:name="com.shutor.autosms.service.SmsSentService" />
+        <service android:name="com.shutor.autosms.service.SmsDeliveredService" />
+        <service android:name="com.shutor.autosms.service.UnscheduleService"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+package com.shutor.birthdaymanager.factory;
+
+import android.content.Context;
+
+import com.shutor.birthdaymanager.preference.PreferencesManager;
+
+/**
+ * Menu Factory for base variant of application
+ */
+public abstract class MenuFactoryBase extends MenuContact {
+
+    public MenuFactoryBase(Context context, boolean asPhoneNumber) {
+        super();
+        listMenuAction.add(new MenuActionCalendar());
+        if(asPhoneNumber) {
+            listMenuAction.add(new MenuActionMessage());
+            listMenuAction.add(new MenuActionCall());
+        }
+
+        if(PreferencesManager.isCustomCalendarActive(context)) {
+            listMenuAction.add(new MenuActionReminder());
+        } else if (!PreferencesManager.isButtonsForInactiveFeaturesHidden(context)) {
+                listMenuAction.add(new MenuActionReminder(MenuAction.STATE.INACTIVE));
+        }
+    }
+}

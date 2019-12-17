@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="backgroundElement">#EEFFEE</color>
+    <color name="backgroundAccentElement">#80F38A</color> //
+    <color name="backgroundElementInverse">#085A09</color>
+
+    <color name="colorPrimary">#085A09</color>
+    <color name="colorPrimaryInverse">#58C037</color>
+    <color name="colorPrimaryDark">#085A09</color>
+    <color name="colorPrimaryDarkInverse">#7CAF69</color>
+    <color name="colorSecondary">#87CF8B</color>
+    <color name="colorAccent">#186323</color>   //Названия и заголовки меню (циферблат фон)
+    <color name="colorInactive">@color/backgroundElement</color>
+    <color name="colorInactiveDark">#9DF86C</color>  //Цифра (выбранная)
+    <color name="colorNotAvailable">#C6FFAC</color>
+    <color name="colorNotAvailableDark">#b7b7b7</color>
+
+    <!-- preferences -->
+    <color name="pref_calendar_color_default" translatable="false">#085A09</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<io.codetail.widget.RevealFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/fragment_details_buddy_add_menu"
+        android:visibility="invisible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="28dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="4dp"
+        android:background="?attr/colorAccent">
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/fragment_details_buddy_menu_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+</io.codetail.widget.RevealFrameLayout>

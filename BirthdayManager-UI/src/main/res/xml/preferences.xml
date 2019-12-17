@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        android:title="@string/pref_category_contacts_sort_title">
+        <ListPreference
+            android:key="@string/pref_contacts_sort_list_key"
+            android:title="@string/pref_contacts_sort_list_title"
+            android:summary="@string/pref_contacts_sort_list_summary"
+            android:defaultValue="@string/pref_contacts_sort_list_value_default"
+            android:entries="@array/pref_contacts_sort_list_array"
+            android:entryValues="@array/pref_contacts_sort_list_values" />
+        <ListPreference
+            android:key="@string/pref_contacts_order_list_key"
+            android:title="@string/pref_contacts_order_list_title"
+            android:summary="@string/pref_contacts_order_list_summary"
+            android:defaultValue="@string/pref_contacts_order_list_value_default"
+            android:entries="@array/pref_contacts_order_list_array"
+            android:entryValues="@array/pref_contacts_order_list_values" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/pref_category_calendar_title">
+        <android.support.v7.preference.Preference
+            android:key="@string/pref_open_calendar_key"
+            android:title="@string/pref_open_calendar_title"
+            android:summary="@string/pref_open_calendar_summary"
+            android:persistent="false" />
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:key="@string/pref_create_calendar_key"
+            android:title="@string/pref_create_calendar_title"
+            android:summary="@string/pref_create_calendar_summary"
+            android:defaultValue="@string/pref_create_calendar_default" />
+        <com.kunzisoft.androidclearchroma.ChromaPreferenceCompat
+            android:key="@string/pref_calendar_color_key"
+            android:dependency="@string/pref_create_calendar_key"
+            android:title="@string/pref_calendar_color_title"
+            android:summary="@string/pref_calendar_color_summary"
+            app:chromaShapePreview="ROUNDED_SQUARE"
+            app:chromaColorMode="RGB"
+            app:chromaIndicatorMode="HEX"
+            app:chromaInitialColor="@color/pref_calendar_color_default"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/pref_category_reminders_title">
+        <EditTextPreference
+            android:key="@string/pref_reminders_days_key"
+            android:dependency="@string/pref_create_calendar_key"
+            android:title="@string/pref_reminders_days_title"
+            android:summary="@string/pref_reminders_days_summary"
+            android:defaultValue="@string/pref_reminders_days_default" />
+        <com.shutor.birthdaymanager.preference.TimePreference
+            android:key="@string/pref_reminders_time_key"
+            android:dependency="@string/pref_create_calendar_key"
+            android:title="@string/pref_reminders_time_title"
+            android:summary="@string/pref_reminders_time_summary"
+            android:defaultValue="@string/pref_reminders_time_default" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/pref_category_special_title">
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:key="@string/pref_special_service_key"
+            android:title="@string/pref_special_service_title"
+            android:summary="@string/pref_special_service_summary"
+            android:defaultValue="@string/pref_special_service_default" />
+        <android.support.v7.preference.CheckBoxPreference
+            android:key="@string/pref_auto_sms_reminders_key"
+            android:dependency="@string/pref_special_service_key"
+            android:title="@string/pref_auto_sms_reminders_title"
+            android:summary="@string/pref_auto_sms_reminders_summary"
+            android:defaultValue="@string/pref_auto_sms_reminders_default" />
+        <android.support.v7.preference.CheckBoxPreference
+            android:key="@string/pref_hide_inactive_features_key"
+            android:title="@string/pref_hide_inactive_features_title"
+            android:summary="@string/pref_hide_inactive_features_summary"
+            android:defaultValue="@string/pref_hide_inactive_features_default" />
+    </PreferenceCategory>
+    <!--
+    <PreferenceCategory
+        android:title="@string/pref_category_theme_title"
+        android:key="pref_key_storage_settings">
+        <ListPreference
+            android:title="@string/pref_theme_title"
+            android:summary="@string/pref_theme_summary"
+            android:key="@string/pref_theme_key"
+            android:defaultValue="@string/pref_theme_values_default"
+            android:entries="@array/pref_theme_array"
+            android:entryValues="@array/pref_theme_values" />
+    </PreferenceCategory>
+    -->
+
+</PreferenceScreen>
