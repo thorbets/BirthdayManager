@@ -1,4 +1,4 @@
-# Android RememBirthday
+# Android BirthdayManager
 
 <img src="https://raw.githubusercontent.com/Kunzisoft/RememBirthday/master/art/logo.png" /> RememBirthday is a project to manage birthays on phone and tablet, it is completely free and open.
 
