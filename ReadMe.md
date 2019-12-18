@@ -3,7 +3,7 @@
 BirthdayManager is a project to manage birthays on Android phone, it is completely free and open.
 
 ### Features and bugs
-For suggestions and bug reports, please send an email to <a href="shutort@gmail.com">*ShuTor*</a>
+For suggestions and bug reports, please send an email to <a href="shutor@gmail.com">*ShuTor*</a>
 
 ## Libraries
 - [Joda-time-android](https://github.com/dlew/joda-time-android)
